@@ -1,0 +1,61 @@
+body{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    background-image: url(https://images6.alphacoders.com/614/614633.jpg);
+    background-size: cover;
+}
+
+.assign {
+    text-align: center;
+    /* background: green; */
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin: 0%;
+    width: 100%;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-decoration: underline;
+
+}
+.todoh2 {
+    text-align: center;
+    /* background: rgb(128, 26, 0); */
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin: 0%;
+    width: 100%;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+.todoinput{
+    width: 400px;
+    height: 35px;
+    border-radius: 10px;
+    border: 4px solid black;
+    /* box-shadow: 5px 9px rgb(168, 88, 88); */
+    
+}
+
+.addplayer  {
+    height: 35px;
+    width: 150px;
+    border-radius: 25px;
+    background: green;
+    font-size: 20px;
+    color: white;
+}
+.dltall  {
+    height: 35px;
+    width: 150px;
+    border-radius: 25px;
+    background: green;
+    font-size: 20px;
+    color: white;
+
+
+}    
